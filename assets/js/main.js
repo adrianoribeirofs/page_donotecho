@@ -36,30 +36,6 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('.ctf-button').addEventListener('click', function() {
         const hackerPhrases = [
             "Prepare-se para o hacking!!",
-            "Qual a senha do Forest Gump? Resp: OneForestOne",
-            "Hacker Hackeia!!!",
-            "Asrev ainda está vivo?",
-            "Vyra, sua lazarenta!!!!",
-            "É o bicho é o bicho vou te devorar crocodilo eu sooouuuu...",
-            "Então você é Hacker malvadão??",
-            "Valeu natalina!!!",
-            "Um eterno aprendiz, todo dia precisa aprender a mesma coisa.",
-            "Uma constelação de erros brilhando no céu da ignorância.",
-            "Em meio à luz da sabedoria, você trouxe a escuridão",
-            "Invista no seu netowrking com o silêncio!",
-            "Em algum lugar do mundo existe uma árvore que recicla o ar que você respira, encontre-a e peça desculpas!",
-            "Assintomático para a inteligência",
-            "Inteligente não praticante",
-            "Possui boas intenções, mas nenhuma delas é o êxito",
-            "Se pensar fosse crime, algumas pessoas seriam inocentes.",
-            "O talento está no sangue, mas falta circular.",
-            "O ouro é um parente do cachorro, pois tem uns quilate",
-            "Qual esposa do psyduck? Resp.: A psicopata!",
-            "Dois patos um paulista e um carioca. O carioca falou: coé. O paulista falou coé mané",
-            "O silêncio é sua maior qualidade",
-            "Por que a Barbie estava vendada enquanto esculpia o Ben10 com Argila com o Ken do seu lado? Resp.: Porque ela estava fazendo o Ben sem olha a Ken!",
-            "Você é impossível de subestimar.",
-            "Pipipi Popopo!!!"
         ];
 
         const randomIndex = Math.floor(Math.random() * hackerPhrases.length);
